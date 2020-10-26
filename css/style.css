@@ -1,0 +1,27 @@
+[class*="col-"] {
+  float: left;
+}
+#header {
+  background-color: #2C3F4F;
+  height: 150px;
+}
+#header-parts {
+  background-color: yellow;
+  height: 150px;
+}
+
+[class*="offset-"] {
+  height: 100%;
+}
+
+#jumbotron {
+  width: 100%;
+  height: 700px;
+  background-color: #18BC9B;
+}
+
+section {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
